@@ -1,3 +1,3 @@
 # React Shop Portfolio Project
 
-[Demo](https://armdevrus.github.io/react-shop/").
+[Demo](https://armdevrus.github.io/react-shop/).
